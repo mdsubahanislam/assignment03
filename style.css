@@ -1,0 +1,54 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace; 
+    margin: 0;
+    padding: 0;
+}
+.button{
+    background-color: blue;
+    color: whitesmoke;
+    padding: 8px 10px;
+}
+.slider{
+position:relative;
+}
+.text-slider{
+    top: 300px;
+    z-index: 5;
+position: absolute;
+
+}
+.slider-button button{
+    display: block;
+    margin-left: 500px;
+}
+.text h1{
+    font-size: 28px;
+    font-weight: 900;
+    color: black;
+}
+.many-button{
+    background-color: #ff00ff;
+    border-radius: 25%;
+    height: 30px;
+    width: 171px;
+    padding: 5px -61px;
+    text-align: center;
+    color: blue;
+}
+.card-shadow{
+    box-shadow: 0px 10px 23px -6px rgba(0,0,0,0.69);
+-webkit-box-shadow: 0px 10px 23px -6px rgba(0,0,0,0.69);
+-moz-box-shadow: 0px 10px 23px -6px rgba(0,0,0,0.69);
+}
+.team-member h1{
+    font-size: 28px;
+    font-weight: 900;
+}
+.logo-img p{
+    color: whitesmoke;
+}
+.babu{
+    padding: 40px 112px;
+}
